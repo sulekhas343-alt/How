@@ -1,0 +1,47 @@
+{
+  "geode": "v5.11.2",
+  "gd": {
+    "android": "2.2081",
+    "win": "2.2081"
+  },
+  "id": "rallygagler.demoncoach",
+  "name": "Demon Coach",
+  "version": "v1.0.0",
+  "developer": "Rallygagler",
+  "description": "Personalized Geometry Dash Demon recommendations.",
+  "dependencies": [],
+  "settings": {
+    "daily-easy": {
+      "type": "bool",
+      "name": "Daily Easy Demon",
+      "description": "Enable Easy Demon daily suggestions.",
+      "default": true
+    },
+    "daily-medium": {
+      "type": "bool",
+      "name": "Daily Medium Demon",
+      "description": "Enable Medium Demon daily suggestions.",
+      "default": true
+    },
+    "daily-hard": {
+      "type": "bool",
+      "name": "Daily Hard Demon",
+      "description": "Enable Hard Demon daily suggestions.",
+      "default": true
+    },
+    "weekly-insane": {
+      "type": "bool",
+      "name": "Weekly Insane Demon",
+      "description": "Enable Insane Demon weekly suggestions.",
+      "default": true
+    },
+    "weekly-extreme": {
+      "type": "bool",
+      "name": "Weekly Extreme Demon",
+      "description": "Enable Extreme Demon weekly suggestions.",
+      "default": true
+    },
+    "monthly-list": {
+      "type": "bool",
+      "name": "Monthly List Demon",
+      "description": "Enable monthly list-demon
